@@ -1,0 +1,19 @@
+{
+  "name": "knex-migrations",
+  "version": "1.0.0",
+  "description": "Learning migrations with Knex.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindlymatt/knex-migrations.git"
+  },
+  "author": "mcsl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lindlymatt/knex-migrations/issues"
+  },
+  "homepage": "https://github.com/lindlymatt/knex-migrations#readme"
+}
