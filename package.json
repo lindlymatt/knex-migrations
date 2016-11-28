@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/lindlymatt/knex-migrations/issues"
   },
-  "homepage": "https://github.com/lindlymatt/knex-migrations#readme"
+  "homepage": "https://github.com/lindlymatt/knex-migrations#readme",
+  "dependencies": {
+    "knex": "^0.12.6",
+    "pg": "^6.1.0"
+  }
 }
